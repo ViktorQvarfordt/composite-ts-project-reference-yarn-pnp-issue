@@ -1,0 +1,12 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "composite": true,
+    "rootDir": "./src",
+    "noEmit": false,
+    "outDir": "dist",
+    "module": "commonjs",
+  }
+}

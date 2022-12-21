@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.3.1",
+  "workspaces": [
+    "a",
+    "b"
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

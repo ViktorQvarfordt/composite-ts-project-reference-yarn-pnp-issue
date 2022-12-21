@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "dependencies": {
+    "b": "*"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

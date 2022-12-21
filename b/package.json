@@ -1,0 +1,10 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "main": "./dist/b.js",
+  "module": "./dist/b.js",
+  "types": "./dist/b.d.ts",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

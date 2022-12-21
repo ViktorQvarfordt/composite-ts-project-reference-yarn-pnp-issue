@@ -1,0 +1,14 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "composite": true,
+    "target": "esnext",
+    "moduleResolution": "node",
+    "noEmit": true
+  },
+  "references": [
+    {
+      "path": "../b"
+    }
+  ]
+}
