@@ -1,0 +1,11 @@
+{
+  "extends": "@tsconfig/next-strictest/tsconfig.json",
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "disableSourceOfProjectReferenceRedirect": true
+  }
+  // "references": [
+  //   { "path": "../shared" }
+  // ]
+}
