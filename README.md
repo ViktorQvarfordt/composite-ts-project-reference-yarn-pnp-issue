@@ -5,6 +5,6 @@
 * Faster editor type inference
 * Editor can go-to definition across packages and auto-import across packages
 
+----
 
-* [WIP functional demo](./funtional)
 * [Demo of issues relating to composite typescript project references and yarn pnp](./yarn-pnp)
